@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CooperateWeb Maven Webapp"
+  id="myeclipse.1445922507508"
+  context-root="/CooperateWeb"
+  j2ee-spec="6.0"
+  archive="CooperateWeb Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
